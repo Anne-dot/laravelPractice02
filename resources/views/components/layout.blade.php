@@ -1,0 +1,1 @@
+<x-nav.link route="books.index">Tseki seda</x-nav.link>
